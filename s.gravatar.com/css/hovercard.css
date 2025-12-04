@@ -165,7 +165,7 @@
 		position: absolute;
 		top: 0;
 		right: -22px;
-		background: url(/web/20151230175348im_/http://s.gravatar.com/images/grav-tag.png) top right no-repeat;
+		background: url(../images/grav-tag.png) top right no-repeat;
 		background-size: 48px 61px;
 		width: 48px;
 		height: 61px;
@@ -173,7 +173,7 @@
 		.pos-left .grav-tag {
 			right: auto;
 			left: -22px;
-			background: url(/web/20151230175348im_/http://s.gravatar.com/images/grav-tag-left.png) top right no-repeat;
+			background: url(../images/grav-tag-left.png) top right no-repeat;
 			background-size: 48px 61px;
 		}
 
@@ -218,14 +218,14 @@
 			}
 
 		.gcard .comments a {
-			background: #fff url(/web/20151230175348im_/http://s.gravatar.com/images/pillicon.png) 3px 2px no-repeat;
+			background: #fff url(../images/pillicon.png) 3px 2px no-repeat;
 		}
 			.gcard .comments a:hover {
 				background-position: -11px 2px;
 			}
 
 		.gcard .likes a {
-			background: #fff url(/web/20151230175348im_/http://s.gravatar.com/images/pillicon.png) 4px -13px no-repeat;
+			background: #fff url(../images/pillicon.png) 4px -13px no-repeat;
 		}
 
 			.gcard .likes a:hover {
@@ -312,10 +312,10 @@ only screen and (-o-min-device-pixel-ratio: 3/2),
 only screen and (min--moz-device-pixel-ratio: 1.5),
 only screen and (min-device-pixel-ratio: 1.5) {
 	.gcard .grav-tag {
-		background-image: url(/web/20151230175348im_/http://s.gravatar.com/images/grav-tag-2x.png);
+		background-image: url(../images/grav-tag-2x.png);
 	}
 	.pos-left .grav-tag {
-		background-image: url(/web/20151230175348im_/http://s.gravatar.com/images/grav-tag-left-2x.png);
+		background-image: url(../images/grav-tag-left-2x.png);
 	}
 }
 /*
