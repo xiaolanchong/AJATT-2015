@@ -13,3 +13,9 @@ Latest web archive: https://web.archive.org/web/20230520002714/http://www.alljap
 To convert to a dark theme (if ever):
 * rename style5219_dark.css to style5219.css
 * remove from each html file <style></style> secion
+
+Link to AJATT 2015 zip archive: https://www.mediafire.com/file/d15ce4bg1318cfo/AJATT_%2528Entire_Website%2529.zip/file
+
+What's fixed:
+* http:// -> https:// (with sed)
+* missing files: s.gravatar.com/css, newicons/rotate.gif
